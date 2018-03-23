@@ -10,3 +10,7 @@
 # Realizamos un GET de toda la lista de ideas a nuestro servidor
 
 ![imagen](./idea/3.png)
+
+#Realizacion de un modificacion en el modelo para que se indique la fecha en la que fue creada la idea
+
+![imagen](./idea/3.png)
