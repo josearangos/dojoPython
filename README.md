@@ -13,4 +13,4 @@
 
 #Realizacion de un modificacion en el modelo para que se indique la fecha en la que fue creada la idea
 
-![imagen](./idea/3.png)
+![imagen](./idea/4.png)
